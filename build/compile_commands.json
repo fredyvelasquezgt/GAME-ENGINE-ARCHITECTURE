@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/build",
+  "command": "/usr/bin/c++  -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/external\" -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src\" -I/usr/include/SDL2  -pg -g -std=gnu++23 -o CMakeFiles/game.dir/src/Engine/Game.cpp.o -c \"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/Engine/Game.cpp\"",
+  "file": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/Engine/Game.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/build",
+  "command": "/usr/bin/c++  -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/external\" -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src\" -I/usr/include/SDL2  -pg -g -std=gnu++23 -o CMakeFiles/game.dir/src/Engine/Scene.cpp.o -c \"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/Engine/Scene.cpp\"",
+  "file": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/Engine/Scene.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/build",
+  "command": "/usr/bin/c++  -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/external\" -I\"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src\" -I/usr/include/SDL2  -pg -g -std=gnu++23 -o CMakeFiles/game.dir/src/main.cpp.o -c \"/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/main.cpp\"",
+  "file": "/mnt/c/Users/Mark/Documents/Universidad/Game Engine/lab2/src/main.cpp"
+}
+]

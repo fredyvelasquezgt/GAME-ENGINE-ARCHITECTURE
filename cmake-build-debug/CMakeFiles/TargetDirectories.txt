@@ -1,0 +1,3 @@
+/Users/fredyvelasquez/Downloads/entt-pong-main/cmake-build-debug/CMakeFiles/game.dir
+/Users/fredyvelasquez/Downloads/entt-pong-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fredyvelasquez/Downloads/entt-pong-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
