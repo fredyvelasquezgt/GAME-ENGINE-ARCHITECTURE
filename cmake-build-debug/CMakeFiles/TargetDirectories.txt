@@ -1,0 +1,3 @@
+/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug/CMakeFiles/game.dir
+/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/external\" -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src\" -I/opt/homebrew/Cellar/sdl2/2.30.9/include -isystem /opt/homebrew/Cellar/sdl2/2.30.9/include/SDL2  -pg -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fcolor-diagnostics -o CMakeFiles/game.dir/src/Engine/Game.cpp.o -c \"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/Engine/Game.cpp\"",
+  "file": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/Engine/Game.cpp",
+  "output": "CMakeFiles/game.dir/src/Engine/Game.cpp.o"
+},
+{
+  "directory": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/external\" -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src\" -I/opt/homebrew/Cellar/sdl2/2.30.9/include -isystem /opt/homebrew/Cellar/sdl2/2.30.9/include/SDL2  -pg -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fcolor-diagnostics -o CMakeFiles/game.dir/src/Engine/Scene.cpp.o -c \"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/Engine/Scene.cpp\"",
+  "file": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/Engine/Scene.cpp",
+  "output": "CMakeFiles/game.dir/src/Engine/Scene.cpp.o"
+},
+{
+  "directory": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/external\" -I\"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src\" -I/opt/homebrew/Cellar/sdl2/2.30.9/include -isystem /opt/homebrew/Cellar/sdl2/2.30.9/include/SDL2  -pg -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.4 -fcolor-diagnostics -o CMakeFiles/game.dir/src/main.cpp.o -c \"/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/main.cpp\"",
+  "file": "/Users/fredyvelasquez/Downloads/GAME-ENGINE-ARCHITECTURE-backgrounds 2/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.o"
+}
+]
